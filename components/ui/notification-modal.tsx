@@ -1,8 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
-import { X, CheckCircle, XCircle, AlertTriangle, Info } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { X, CheckCircle, XCircle, AlertTriangle, Info, Clock } from 'lucide-react';
 import { Notification } from '@/types/notification';
 import { cn } from '@/lib/utils';
 
